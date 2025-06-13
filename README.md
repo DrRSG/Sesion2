@@ -1,1 +1,3 @@
 Solo por escribir lo que sea...
+
+El archivo Gapminder_CsDat.R lo subí utilizando RStudio y el archivo CienciaDatos_ggplot.R lo subí desde github.
